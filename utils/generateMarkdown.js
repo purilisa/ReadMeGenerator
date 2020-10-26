@@ -19,8 +19,8 @@ function generateMarkdown(data, image) {
   3. [Testing ${data.title}](#Test%20Code)
   4. [View ${data.title} Demo ](#Demo)
   5. [Link to the Deployed ${data.title} App in Github ](#Link%20to%20the%20Deployed%20App%20in%20Github)
-  5. [Ask Us Questions](#Ask%20Questions)
-  6. [Licenses](#License)
+  6. [Ask Us Questions](#Ask%20Questions)
+  7. [Licenses](#License)
   ***
 
   ## Installation
@@ -38,7 +38,7 @@ function generateMarkdown(data, image) {
   ## Demo
   Click here: https://drive.google.com/file/d/18PyJEHA1V9nov-993pq8Dkk1qeO-4HfD/view
 
-  ##Link to the Deployed App in Github
+  ## Link to the Deployed App in Github
   ${data.gitHubLink} 
 
   ## Ask Questions
