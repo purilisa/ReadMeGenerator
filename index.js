@@ -21,7 +21,7 @@ function init() {
         },
         {
             type: "input",
-            name: "link",
+            name: "gitHubLink",
             message: "Please enter URL to where the project is deployed?"
         },
         {
